@@ -1,0 +1,14 @@
+{
+    "name": "magmadesignstudio/floranexis-db",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sebastian Tiede",
+            "email": "tiede@magmadesignstudio.de"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "json-merge-plants": "bash ./bin/merge-json.sh data/plants data/plants.jsonl"
+    }
+}
